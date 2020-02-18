@@ -1,0 +1,23 @@
+h1 {
+    color: white; 
+    text-align: center; 
+    background-color: darkred;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.imgborder {
+    border-style: dashed;
+}
+
+div {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
